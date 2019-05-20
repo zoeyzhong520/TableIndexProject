@@ -1,2 +1,4 @@
 # TableIndexProject
 tableView设置索引
+
+给tableView添加索引功能，使用其代理方法 sectionForSectionIndexTitle
